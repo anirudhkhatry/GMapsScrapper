@@ -1,7 +1,7 @@
 import requests
 import requests, json ,csv
   
-api_key = 'AIzaSyCWVyjqhAHg9kOaPPJJIqKoPW4Sq6YHaq8'
+api_key = ''
   
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
   
